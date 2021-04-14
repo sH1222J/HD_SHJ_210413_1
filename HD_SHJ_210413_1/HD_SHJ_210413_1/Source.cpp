@@ -50,5 +50,6 @@ void main() {
 		i--;
 		printf("\n");
 	}
+	fgetc(stdin);
 }
 
